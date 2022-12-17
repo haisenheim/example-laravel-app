@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <h3>NOUVEL ETUDIANT</h3>
+        <h3>Formulaire de creation d'un nouvel etudiant!</h3>
         <div>
             <form action="/etudiants" method="post">
                 @csrf
